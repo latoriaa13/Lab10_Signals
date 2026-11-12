@@ -1,0 +1,16 @@
+# C build products
+*.o
+signal_handler
+signal_alarm
+signal_segfault
+signal_sigaction
+recv_signal
+send_signal
+tennis_receiver
+tennis_server
+
+# Debugger and editor files
+core
+core.*
+*.swp
+*~
